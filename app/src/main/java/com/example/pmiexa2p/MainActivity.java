@@ -1,5 +1,11 @@
 package com.example.pmiexa2p;
 
+//Grupo #1
+//Francisco Roberto Martinez Leiva , 201910010453
+//Gustavo Adolfo Siu Marquez , 200710510076
+//Dennis Mauricio Amaya Reyes , 202110030035
+
+
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
