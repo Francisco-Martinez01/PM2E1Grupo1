@@ -4,6 +4,7 @@ package com.example.pmiexa2p;
 //Francisco Roberto Martinez Leiva , 201910010453
 //Gustavo Adolfo Siu Marquez , 200710510076
 //Dennis Mauricio Amaya Reyes , 202110030035
+//Jonathan Rodrigo Paz ,  202310010374
 
 
 import android.os.Bundle;
